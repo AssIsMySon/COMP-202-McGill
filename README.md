@@ -1,5 +1,5 @@
 # COMP-202-McGill
-McGill University COMP 202 Foundations of Programming
+McGill University COMP 202 Foundations of Programming Assignment Solution
 
 
 # Assignment help!!!
